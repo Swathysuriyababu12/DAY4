@@ -1,2 +1,6 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+#DAY 4 BOOTCAMP OF FULL STACK DEVELOPMENT
+
+XMLHTTP Request
+Hoisting & scope
+Introduction to functions
+Lodash
